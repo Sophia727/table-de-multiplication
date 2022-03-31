@@ -1,0 +1,30 @@
+body{
+    background-color: bisque;
+    color: grey;
+}
+input:hover{
+    background-color:rgb(194, 144, 144);
+    border-color: transparent;
+    transition-duration: 0.6s;
+}
+input{
+    width: 150px;
+    height: 40px;
+    margin-top: 15px;
+    background-color: rgb(139, 95, 95);
+    border-style: none;
+    border-color: transparent;
+    border-radius: 15px;
+    color: wheat;
+    text-align: center;
+    
+}
+#table{
+    width: 90%;
+    background-color: transparent;
+    color: grey;
+    display: none;
+}
+#reset{
+    display: none;
+}
